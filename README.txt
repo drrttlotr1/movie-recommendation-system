@@ -70,11 +70,11 @@ The project explores how user preferences can be used to identify potentially re
 ```text
 movie-recommendation-system/
 │
-├── Hw10.ipynb       # Data analysis and recommendation system
-├── movies.csv       # Movie metadata
-├── ratings.csv      # User ratings
-├── tags.csv         # User-generated tags
-├── links.csv        # External movie identifiers
+├── movie_recommendation_system.ipynb       # Data analysis and recommendation system
+├── movies.csv                              # Movie metadata
+├── ratings.csv                             # User ratings
+├── tags.csv                                # User-generated tags
+├── links.csv                               # External movie identifiers
 └── README.md
 ```
 
